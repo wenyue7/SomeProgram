@@ -1,0 +1,5 @@
+---- matx.hpp Æ¥Åä (4 ÔÚ 4 ÎÄ¼þ ) ----
+Core.hpp (z:\usr\local\include\opencv2):#include "opencv2/core/matx.hpp"
+Mat.hpp (z:\usr\local\include\opencv2\core):#include "opencv2/core/matx.hpp"
+Matx.hpp (z:\usr\local\include\opencv2\core):#  error matx.hpp header must be compiled as C++
+Types.hpp (z:\usr\local\include\opencv2\core):#include "opencv2/core/matx.hpp"
